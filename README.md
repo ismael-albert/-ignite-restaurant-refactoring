@@ -13,7 +13,7 @@
 ignite-template-reactjs-refactoring-classes-ts
 
 ## 📝 Licença
-
+ 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
